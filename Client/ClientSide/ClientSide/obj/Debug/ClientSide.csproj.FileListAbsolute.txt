@@ -1,0 +1,13 @@
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.csprojAssemblyReference.cache
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.Form1.resources
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.username.resources
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.cache
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.pdb
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.AddAuction.resources
+C:\Users\Tudor\Desktop\Licitatii\Client\ClientSide\ClientSide\obj\Debug\ClientSide.BidOnOffer.resources
